@@ -1,0 +1,3 @@
+﻿  ClientMain.cpp
+c:\users\rafay.hamid\documents\visual studio 2017\projects\consoleapplication2\consoleapplication2\clientmain.cpp(18): warning C4101: 'ind': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\rafay.hamid\Documents\Visual Studio 2017\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
